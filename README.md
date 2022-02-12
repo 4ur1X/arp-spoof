@@ -6,3 +6,5 @@ Uses of ARP Spoofing tools:
 - perform 'man-in-the-middle' MITM actions.
 - steal credentials and sensitive information, while in transit.
 - aid in Denial-of-Service attacks.
+
+Usage syntax: ````python3 arp_spoof.py````
